@@ -1,0 +1,5 @@
+program:
+  user:
+    name: User
+    last_name: Shilov
+    group: IKBO-30-22
